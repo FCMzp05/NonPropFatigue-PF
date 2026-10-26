@@ -1,0 +1,6 @@
+numpy>=2.0
+scipy>=1.13
+torch>=2.4
+nvmath-python>=0.2
+gmsh>=4.12
+cupy-cuda12x>=13
